@@ -1,0 +1,4 @@
+[submodule "macom"]
+	path = macom
+	url = git@git.vauxoo.com:vauxoo/macom.git
+	branch = 12.0
