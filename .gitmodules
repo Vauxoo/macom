@@ -1,8 +1,8 @@
-[submodule "macom"]
-	path = macom
-	url = git@git.vauxoo.com:vauxoo/macom.git
-	branch = 12.0
 [submodule "addons-vauxoo"]
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 12.0
+[submodule "macom"]
+	path = macom
+	url = git@git.vauxoo.com:vauxoo/macom.git
 	branch = 12.0
