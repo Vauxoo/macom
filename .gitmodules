@@ -5,4 +5,4 @@
 [submodule "macom"]
 	path = macom
 	url = git@git.vauxoo.com:vauxoo/macom.git
-	branch = 12.0
+	branch = 12.0-fix-portal-users-sales-dev-keylor2906
